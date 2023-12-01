@@ -66,7 +66,7 @@ global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘バージニティハンター˘�
 global.wm3 = '⫹⫺ ᴋᴏɴᴇᴋᴏ ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ'
 global.md = 'ᴋᴏɴᴇᴋᴏ ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ‌'
 //-----[OWNER]
-global.nomorown = '6281236167286'
+global.nomorown = '447389645857'
 global.owner = [
 ['6281236167286'], // global owner 0
 ['6281236167286'], // global owner 1
@@ -74,7 +74,7 @@ global.owner = [
 ['6281236167286', 'ᴛʜᴇ ʀᴇʏᴢ', true] // global owner 3
 ]
 global.mods = [] // siapa partner mu? 
-global.prems = ['6281236167286','6281236167286'] //premium unlimited
+global.prems = ['447389645857','628978613993'] //premium unlimited
 
 // =================={[(API KEYS)]}==================
 global.mupar = 'OnLasdan'
@@ -133,19 +133,19 @@ global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.thumblvlup = 'https://telegra.ph/file/a3e66e0fa840b08236c75.jpg'
 global.footer = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ ฅ˘ᴋᴏɴᴇᴋᴏ ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 /*============== SOCIAL ==============*/
-global.sig = 'https://instagram.com/reymwmwk112'
-global.sgh = 'https://github.com/Reybot1238'
-global.sgc = 'https://chat.whatsapp.com/Em4vPwiN7151mO3lDpkdrm'
-global.sdc = 'https://discord.gg/fu2BQ5RZ'
+global.sig = 'https://instagram.com/ken'
+global.sgh = 'https://github.com/Maru-666'
+global.sgc = 'https://whatsapp.com/channel/0029VaFCiP3LtOjDtBOCsh2O'
+global.sdc = '-'
 global.snh = 'https://nhentai.net/g/HaramTod🗿'
-global.sfb = 'https://www.facebook.com/Rey koncol'
-global.syt = 'https://youtube.com/@Litz445'
+global.sfb = 'https://www.facebook.com/Ken'
+global.syt = '-'
 //====== Url Template Buttons ======//
 global.dtu = 'ᴅᴏɴᴀᴛᴇ'
-global.urlnya = "https://pnggilajacn.my.id/contacts"
+global.urlnya = "-"
 //========== callButtons ==========//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 831-8166-6350'
+global.phn = '+44 73896-45857'
 global.ephemeral = '86400'
 global.monitor = "u2209032-5096e7f10915ab963640d415"
 global.multiplier = 69
